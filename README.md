@@ -2,7 +2,7 @@ Hello, World! 👋
 
 Welcome to my GitHub profile! My name is Saanil Khanna, and I'm thrilled to have you here. Let me take a moment to introduce myself and give you a glimpse into my world of coding.
 
-I am a passionate and dedicated software developer with a love for problem-solving and creating innovative solutions. My journey in the realm of technology began in Highschool. Since then, I have been on an exciting adventure, continuously expanding my knowledge and honing my skills.
+I am a passionate and dedicated Data Analyst with a love for problem-solving and creating innovative solutions. My journey in the realm of technology began in Highschool. Since then, I have been on an exciting adventure, continuously expanding my knowledge and honing my skills.
 
 My areas of expertise revolve around Data analytics, Machine learning , Database Management and Data Visualization. I am constantly exploring new tools and techniques, eager to stay updated with the latest trends in the fast-paced world of software development. With a strong foundation in Data Analytics, I thrive in collaborative environments and enjoy working on challenging projects.
 
